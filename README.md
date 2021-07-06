@@ -1,2 +1,6 @@
 # scripts
-scripts for processing images, pdfs, ...
+
+## pdf processing
+- read document info
+- delete document info
+- merge pdf files
