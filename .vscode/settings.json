@@ -1,0 +1,30 @@
+{
+    "editor.detectIndentation": false,  
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.useTabStops": false,
+    "files.eol": "\n",
+    "liveSassCompile.settings.formats": [
+      {
+          "format": "expanded",
+          "extensionName": ".css",
+          "savePath": "/functions/public/css",
+
+      },
+      {
+          "format": "compressed",
+          "extensionName": ".min.css",
+          "savePath": "/functions/public/css"
+      },
+      {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/functions/src/app/views/css"
+    }
+    ],
+    "liveSassCompile.settings.includeItems": [
+      "functions/scss/main.scss"
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "typescript.preferences.quoteStyle": "single"
+  }
