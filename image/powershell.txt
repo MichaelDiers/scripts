@@ -1,0 +1,2 @@
+# convert image to base64
+[convert]::ToBase64String((get-content [path] -encoding byte))
